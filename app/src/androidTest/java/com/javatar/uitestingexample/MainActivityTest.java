@@ -71,7 +71,7 @@ public class MainActivityTest {
 
             @Override
             public void describeTo(Description description) {
-                description.appendText("with toolbar title: ");
+                description.appendText("Toolbar title: ");
                 textMatcher.describeTo(description);
             }
         };
