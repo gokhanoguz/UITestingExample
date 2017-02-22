@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UITestingExample</string>
+    <string name="toolbar_title">My Toolbar Title</string>
+</resources>
